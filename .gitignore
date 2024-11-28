@@ -1,0 +1,105 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Installed dependencies
+*.egg-info/
+.installed.cfg
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+.coverage
+*.cover
+*.coverage.*
+coverage.xml
+.cache/
+nosetests.xml
+*.spec
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# PyCharm configuration
+*.iml
+*.iws
+.idea/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/*.iml
+.idea/dictionaries
+.idea/libraries
+__pycache__/
+
+# Pycharm Excluded
+.idea/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# pytest
+.cache/
+
+# Pyre type checker
+.pyre/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.~lock.*
+~$*
+
+# Environment variables and credentials
+.env
+.env.*
+*.env
+*.secret
+secrets.json
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Local database files
+*.sqlite3
+*.db
+
+# Python generated cache files
+*.py[cod]
+
+# VS Code debug configurations
+*.launch.json
